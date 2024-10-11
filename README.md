@@ -23,19 +23,15 @@ A Timetable web-based application designed to organize cyber security study with
 
 To run the application locally, follow these steps:
 
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/q4n0/my-timetable-app.git
+    git clone https://github.com/q4n0/my-timetable-app.git
 
 # Navigate to the project directory:
 
-cd my-timetable-app
+    cd my-timetable-app
 
 # Install dependencies:
 
-npm install
+    npm install
 
 # Start the application:
 
@@ -52,7 +48,4 @@ The app should now be running on http://localhost:3000.
 # Contributing
 
 If you'd like to contribute to the project, feel free to submit a pull request or open an issue. Contributions of any kind are welcome!
-
-# Contact
-
 For any questions or feedback, please feel free to contact the project owner.
