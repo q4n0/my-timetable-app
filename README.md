@@ -1,10 +1,10 @@
-#My Timetable App
+# My Timetable App
 
-#Introduction
+# Introduction
 
 My Timetable App is a web-based application designed to help users create, manage, and organize their daily or weekly timetables with ease. This application allows users to add, edit, and delete tasks or events, and it provides a clean, intuitive interface to ensure a seamless user experience.
 
-#Features
+# Features
 
     Task Management: Add, update, and delete tasks.
     Timetable View: View tasks in a well-organized timetable format.
@@ -12,14 +12,14 @@ My Timetable App is a web-based application designed to help users create, manag
     Customization: Options to customize tasks (time, description, etc.).
     Cross-Platform: Works on both mobile and desktop browsers.
 
-#Technologies Used
+# Technologies Used
 
     Frontend: HTML, CSS, JavaScript
     Backend: Node.js
     Database: [Mention if you use any DB, e.g., MongoDB, Firebase, etc.]
     Version Control: Git
 
-#Installation
+# Installation
 
 To run the application locally, follow these steps:
 
@@ -29,15 +29,15 @@ To run the application locally, follow these steps:
 
 git clone https://github.com/q4n0/my-timetable-app.git
 
-#Navigate to the project directory:
+# Navigate to the project directory:
 
 cd my-timetable-app
 
-#Install dependencies:
+# Install dependencies:
 
 npm install
 
-#Start the application:
+# Start the application:
 
     npm start
 
@@ -49,7 +49,7 @@ The app should now be running on http://localhost:3000.
     Edit or delete tasks by selecting them from the timetable.
     Customize your timetable according to your daily or weekly schedule.
 
-#Contributing
+# Contributing
 
 If you'd like to contribute to the project, feel free to submit a pull request or open an issue. Contributions of any kind are welcome!
 
