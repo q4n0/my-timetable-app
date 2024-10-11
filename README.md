@@ -6,18 +6,17 @@ A Timetable web-based application designed to organize cyber security study with
 
 # Features
 
-    Task Management: Add, update, and delete tasks.
-    Timetable View: View tasks in a well-organized timetable format.
-    User-Friendly Interface: Simple, responsive design for easy navigation.
-    Customization: Options to customize tasks (time, description, etc.).
-    Cross-Platform: Works on both mobile and desktop browsers.
+Task Management: Add, update, and delete tasks.
+Timetable View: View tasks in a well-organized timetable format.
+User-Friendly Interface: Simple, responsive design for easy navigation.
+Customization: Options to customize tasks (time, description, etc.).
+Cross-Platform: Works on both mobile and desktop browsers.
 
 # Technologies Used
 
-    Frontend: HTML, CSS, JavaScript
-    Backend: Node.js
-    Database: [Mention if you use any DB, e.g., MongoDB, Firebase, etc.]
-    Version Control: Git
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js
+Version Control: Git
 
 # Installation
 
