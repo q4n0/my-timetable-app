@@ -2,7 +2,7 @@
 
 # Introduction
 
-My Timetable App is a web-based application designed to help users create, manage, and organize their daily or weekly timetables with ease. This application allows users to add, edit, and delete tasks or events, and it provides a clean, intuitive interface to ensure a seamless user experience.
+A Timetable web-based application designed to organize cyber security study with ease. This application provides a clean, intuitive interface to ensure a seamless user experience.
 
 # Features
 
